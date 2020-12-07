@@ -1,4 +1,4 @@
-package org.ikinsure.hard.budget;
+package org.ikinsure.budget;
 
 import java.util.ArrayList;
 import java.util.Collections;

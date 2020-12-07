@@ -1,4 +1,4 @@
-package org.ikinsure.hard.budget;
+package org.ikinsure.budget;
 
 public enum Categories {
     FOOD("Food", 1),
